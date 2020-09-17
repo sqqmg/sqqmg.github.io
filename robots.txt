@@ -1,0 +1,30 @@
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: mj12bot
+Disallow: /
+
+User-agent: mj12bot
+Disallow: /
+
+User-agent: ahrefsbot
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+
+User-agent: slurp
+Disallow: /
+
+User-agent: Adsbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: siteexplorer
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: *.php
